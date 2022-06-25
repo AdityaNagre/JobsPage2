@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "color":"bg-red-100"
+    },
+    {
+        "id": 2,
+        "color":"bg-cyan-100"
+    },
+    {
+        "id": 3,
+        "color":"bg-orange-200"
+    },
+    {
+        "id": 4,
+        "color":"bg-teal-100"
+    },
+    {
+        "id": 5,
+        "color":"bg-sky-100"
+    },
+    {
+        "id": 6,
+        "color":"bg-yellow-100"
+    },
+    {
+        "id": 7,
+        "color":"bg-green-100"
+    },
+    {
+        "id": 8,
+        "color":"bg-pink-100"
+    },
+    {
+        "id": 9,
+        "color":"bg-rose-100"
+    },
+    {
+        "id": 10,
+        "color":"bg-purple-100"
+    },
+    {
+        "id": 11,
+        "color":"bg-blue-100"
+    },
+    {
+        "id": 12,
+        "color":"bg-emerald-100"
+    }
+]
