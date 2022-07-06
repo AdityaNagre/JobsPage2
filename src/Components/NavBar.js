@@ -19,7 +19,7 @@ export default function NavBar() {
     <>
     <div className='bg-[#bdeae7] md:sticky md:top-0 bg-auto bg-no-repeat bg-center space-y-5 h-16 md:h-[11.3rem]'>
         <div className=' flex justify-evenly items-center pt-4 md:pt-8  '>
-            <a href='https://get-qs3jclrut-adityanagre.vercel.app/' className='text-3xl md:text-4xl font-semibold' target="_blank"><FontAwesomeIcon  icon={["far", "jedi"]}/>Get a Job Homie</a>
+            <a href='https://getjob-six.vercel.app/' className='text-3xl md:text-4xl font-semibold' target="_blank"><FontAwesomeIcon  icon={["far", "jedi"]}/>Get a Job Homie</a>
             <div className="hidden md:block">
                 <form className="md:flex items-center pt-5 pr-10 pl-10  ">
                 <label for="voice-search" className="sr-only">Search</label>
